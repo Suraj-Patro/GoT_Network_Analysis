@@ -1,4 +1,7 @@
-<a href="https://colab.research.google.com/github/Suraj-Patro/GoT_Network_Analysis/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+*This page is available as an executable or viewable **Jupyter Notebook**:* 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Suraj-Patro/GoT_Network_Analysis/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Suraj-Patro/GoT_Network_Analysis/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb)
+[![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Suraj-Patro/GoT_Network_Analysis/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb)
 
 ## 1. Winter is Coming. Let's load the dataset ASAP!
 <p>If you haven't heard of <em>Game of Thrones</em>, then you must be really good at hiding. Game of Thrones is the hugely popular television series by HBO based on the (also) hugely popular book series <em>A Song of Ice and Fire</em> by George R.R. Martin. In this notebook, we will analyze the co-occurrence network of the characters in the  Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books. </p>
