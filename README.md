@@ -29,7 +29,7 @@ This project uses a dataset parsed by Andrew J. Beveridge and Jie Shan which is 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Suraj-Patro/GoT_Network_Analysis/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb)
 [![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Suraj-Patro/GoT_Network_Analysis/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb)
 
-- *Executing [A Network Analysis of Game of Thrones.py](https://raw.githubusercontent.com/Suraj-Patro/GoT_Network_Analysis/blob/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/Handwashing_Importance#packages-required) installed.*
+- *Executing [A Network Analysis of Game of Thrones.py](https://raw.githubusercontent.com/Suraj-Patro/GoT_Network_Analysis/main/A%20Network%20Analysis%20of%20Game%20of%20Thrones.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/GoT_Network_Analysis#packages-required) installed.*
 
 # Packages Required
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
